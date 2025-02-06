@@ -1,8 +1,7 @@
 Salve, il progetto è nato come esercitazione personale, utilizzando alcuni strumenti imparati nel corso Epicode a cui sto partecipando.
 
 
-Si tratta di una richiesta di analisi fittizia, relativa al servizio in abbonamento offerto da Microsoft, denominato: "Gamepass". 
-Si tratta di un abbonamento dove sono presenti diversi videogiochi scaricabili e giocabili solo con l'abbonamento attivo. 
+Si tratta di una richiesta di analisi fittizia, relativa al servizio in abbonamento offerto da Microsoft, denominato: "Gamepass", ovvero un servizio dove sono presenti diversi videogiochi scaricabili e giocabili solo con l'abbonamento attivo.
 
 Ho utilizzato la tecnica del Web Scraping, tramite linguaggio di programmazione Python e notebook "Jupyter", utilizzando Excel e lo strumento di power query, per la pulizia del dato. 
 
